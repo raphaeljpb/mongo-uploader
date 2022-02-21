@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   # s.add_development_dependency "rspec"
   s.add_runtime_dependency "mongo", "2.0.6"
   s.add_runtime_dependency "bson", "3.0.4"
-  s.add_runtime_dependency "bson_ext", "1.12.5"
+  #s.add_runtime_dependency "bson_ext", "1.12.5"
   s.add_runtime_dependency "actionpack"
 
   s.add_runtime_dependency "mime-types", ">= 1.17"
