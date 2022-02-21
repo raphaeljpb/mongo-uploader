@@ -20,8 +20,8 @@ Gem::Specification.new do |s|
 
   # specify any dependencies here; for example:
   # s.add_development_dependency "rspec"
-  s.add_runtime_dependency "mongo", "1.12.5"
-  s.add_runtime_dependency "bson", "4.2.1"
+  s.add_runtime_dependency "mongo", "2.17.0"
+  s.add_runtime_dependency "bson", "4.14.1"
   s.add_runtime_dependency "bson_ext", "1.12.5"
   s.add_runtime_dependency "actionpack"
 
